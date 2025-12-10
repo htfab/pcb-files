@@ -1,0 +1,50 @@
+### Footprint positions - created on 2025-12-10T18:40:29-0500 ###
+### Printed by KiCad version 9.0.6-9.0.6~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                  Package                                               PosX       PosY       Rot  Side
+J1        DF12NB-50DS-0.5V_51  HRS_DF12NB-50DS-0.5V_51                            44.0000    13.0000   90.0000  bottom
+J2        DF12NB-60DS-0.5V_51  HRS_DF12NB-60DS-0.5V_51                             6.0000    28.0000   90.0000  bottom
+C1        100n                 C_0402_1005Metric                                  17.8000    19.9000  135.0000  top
+C2        4u7                  C_0603_1608Metric                                  18.3000    21.1000  135.0000  top
+C3        100n                 C_0402_1005Metric                                  21.7000    10.4000  -135.0000  top
+C4        4u7                  C_0603_1608Metric                                  20.4000    10.8000  -135.0000  top
+C5        100n                 C_0402_1005Metric                                  31.8000    17.5000   45.0000  top
+C6        4u7                  C_0603_1608Metric                                  33.1000    17.1000   45.0000  top
+C7        100n                 C_0402_1005Metric                                  15.7000     3.3000   90.0000  top
+C8        100n                 C_0402_1005Metric                                  12.5000    10.7000    0.0000  top
+C9        4u7                  C_0603_1608Metric                                  10.9000    14.8000  180.0000  top
+C10       1u                   C_0603_1608Metric                                  10.5000     7.6000    0.0000  top
+C11       1u                   C_0603_1608Metric                                  10.1250     1.9000  180.0000  top
+C12       4u7                  C_0603_1608Metric                                  31.2000     8.7000  -90.0000  top
+C13       4u7                  C_0603_1608Metric                                  12.8000     8.5000  -90.0000  top
+C14       100n                 C_0402_1005Metric                                  14.0000     8.5000  -90.0000  top
+C15       10u                  C_0603_1608Metric                                  33.9000    25.4000   90.0000  top
+C16       100n                 C_0402_1005Metric                                  35.8000    25.0000   90.0000  top
+C17       100n                 C_0402_1005Metric                                  16.8000    18.8000  135.0000  top
+C18       100n                 C_0402_1005Metric                                  19.2000    12.2000  -135.0000  top
+C19       10u                  C_0603_1608Metric                                  48.2000    17.7000    0.0000  top
+C20       100n                 C_0402_1005Metric                                  48.6000    19.0000    0.0000  top
+D1        LED                  LED_0603_1608Metric                                32.1000    25.7000   90.0000  top
+D2        1N4448WT             D_SOD-523                                          10.4000    12.8000  -90.0000  top
+D3        RGB                  LED_EAST1616RGBA3                                  29.4000     8.2000   90.0000  top
+D4        BAS19                SOT-23                                             13.0000    13.1000   90.0000  top
+FID1      Fiducial             Fiducial_0.5mm_Mask1mm                              3.0000     1.0000    0.0000  top
+FID2      Fiducial             Fiducial_0.5mm_Mask1mm                             47.5000    47.0000    0.0000  top
+FID3      Fiducial             Fiducial_0.5mm_Mask1mm                             46.5000     1.0000    0.0000  top
+J3        Conn_02x03_Odd_Even  PinHeader_2x03_P2.54mm_Vertical                    37.0750     4.0600  180.0000  top
+R1        0                    R_0402_1005Metric                                  48.2100    13.6000  180.0000  top
+R2        10k                  R_0402_1005Metric                                  39.9000     7.5000    0.0000  top
+R3        100                  R_0402_1005Metric                                  32.0000    28.2000   90.0000  top
+R4        10k                  R_0402_1005Metric                                  39.6000    11.8000    0.0000  top
+R5        1k                   R_0402_1005Metric                                  48.3000    10.9000    0.0000  top
+R6        1k                   R_0402_1005Metric                                  48.3000    15.6000  180.0000  top
+R8        100                  R_0402_1005Metric                                  29.2000    11.0000   90.0000  top
+R9        68                   R_0402_1005Metric                                  27.2000     9.4000   90.0000  top
+R10       68                   R_0402_1005Metric                                  28.2000    10.5000   90.0000  top
+R11       100                  R_0402_1005Metric                                  16.3000     6.2000    0.0000  top
+R12       100                  R_0402_1005Metric                                  15.0000     8.5000   90.0000  top
+U1        ICE40UP5K-SG48I      QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm                25.0000    16.0000  -135.0000  top
+U2        AP2112K-1.2          SOT-23-5                                           10.1000     4.7000  -90.0000  top
+X1        24MHz                Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm    17.6000     4.0750  180.0000  top
+## End
